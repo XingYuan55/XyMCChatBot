@@ -1,0 +1,98 @@
+游戏正在启动，请稍候�?
+[08:43:21] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.14.9
+[08:43:21] [ForkJoinPool-1-worker-6/WARN]: Mod wurst uses the version v7.27.3-MC1.16.5 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'v7'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[08:43:21] [main/INFO]: Loading 71 mods:
+	- autofish 0.9.2
+	- carpet 1.4.43
+	- cloth-basic-math 0.6.1 via cloth-config2
+	- cloth-client-events-v0 1.6.59 via roughlyenoughitems
+	- cloth-config2 4.16.91
+	- customskinloader 14.14
+	- fabric 0.42.0+1.16
+	- fabric-api-base 0.4.0+3cc0f0907d via fabric
+	- fabric-api-lookup-api-v1 1.3.1+3cc0f0907d via fabric
+	- fabric-biome-api-v1 3.1.13+3cc0f0907d via fabric
+	- fabric-blockrenderlayer-v1 1.1.6+3cc0f0907d via fabric
+	- fabric-command-api-v1 1.1.3+3cc0f0907d via fabric
+	- fabric-commands-v0 0.2.3+3cc0f0907d via fabric
+	- fabric-containers-v0 0.1.12+3cc0f0907d via fabric
+	- fabric-content-registries-v0 0.2.5+3cc0f0907d via fabric
+	- fabric-crash-report-info-v1 0.1.4+3cc0f0907d via fabric
+	- fabric-dimensions-v1 2.0.8+3cc0f0907d via fabric
+	- fabric-entity-events-v1 1.2.4+3cc0f0907d via fabric
+	- fabric-events-interaction-v0 0.4.5+3cc0f0907d via fabric
+	- fabric-events-lifecycle-v0 0.2.2+3cc0f0907d via fabric
+	- fabric-game-rule-api-v1 1.0.7+3cc0f0907d via fabric
+	- fabric-item-api-v1 1.2.2+3cc0f0907d via fabric
+	- fabric-item-groups-v0 0.3.1+3cc0f0907d via fabric
+	- fabric-key-binding-api-v1 1.0.5+3cc0f0907d via fabric
+	- fabric-keybindings-v0 0.2.2+3cc0f0907d via fabric
+	- fabric-lifecycle-events-v1 1.2.2+3cc0f0907d via fabric
+	- fabric-loot-tables-v1 1.0.3+3cc0f0907d via fabric
+	- fabric-mining-levels-v0 0.1.4+3cc0f0907d via fabric
+	- fabric-models-v0 0.3.1+3cc0f0907d via fabric
+	- fabric-networking-api-v1 1.0.5+3cc0f0907d via fabric
+	- fabric-networking-blockentity-v0 0.2.9+3cc0f0907d via fabric
+	- fabric-networking-v0 0.3.3+3cc0f0907d via fabric
+	- fabric-object-builder-api-v1 1.9.6+3cc0f0907d via fabric
+	- fabric-object-builders-v0 0.7.3+3cc0f0907d via fabric
+	- fabric-particles-v1 0.2.5+3cc0f0907d via fabric
+	- fabric-registry-sync-v0 0.7.6+3cc0f0907d via fabric
+	- fabric-renderer-api-v1 0.4.5+3cc0f0907d via fabric
+	- fabric-renderer-indigo 0.4.5+3cc0f0907d via fabric
+	- fabric-renderer-registries-v1 2.3.1+3cc0f0907d via fabric
+	- fabric-rendering-data-attachment-v1 0.1.6+3cc0f0907d via fabric
+	- fabric-rendering-fluids-v1 0.1.15+3cc0f0907d via fabric
+	- fabric-rendering-v0 1.1.3+3cc0f0907d via fabric
+	- fabric-rendering-v1 1.6.1+3cc0f0907d via fabric
+	- fabric-resource-loader-v0 0.4.8+3cc0f0907d via fabric
+	- fabric-screen-api-v1 1.0.1+3cc0f0907d via fabric
+	- fabric-screen-handler-api-v1 1.1.6+3cc0f0907d via fabric
+	- fabric-structure-api-v1 1.1.12+3cc0f0907d via fabric
+	- fabric-tag-extensions-v0 1.1.2+3cc0f0907d via fabric
+	- fabric-textures-v0 1.0.7+3cc0f0907d via fabric
+	- fabric-tool-attribute-api-v1 1.2.8+3cc0f0907d via fabric
+	- fabric-transfer-api-v1 1.5.0+3cc0f0907d via fabric
+	- fabricloader 0.14.9
+	- java 8
+	- magiclib-1_16_5 0.5.37
+	- malilib 0.10.0-dev.21+arne.8
+	- masa_gadget_mod-1_16_5 3.0.0
+	- mcwifipnp 1.5.6
+	- minecraft 1.16.5
+	- mm 2.3 via optifabric
+	- modmenu 1.16.23
+	- notenoughanimations 1.2.4
+	- optifabric 1.13.16
+	- replaymod 1.16.4-2.6.10
+	- roughlyenoughitems 5.12.385
+	- roughlyenoughitems-api 5.12.385 via roughlyenoughitems
+	- roughlyenoughitems-default-plugin 5.12.385 via roughlyenoughitems
+	- roughlyenoughitems-runtime 5.12.385 via roughlyenoughitems
+	- transliterationlib 1.0.4
+	- tweakeroo 0.10.0-dev.20210917.191839
+	- wurst v7.27.3-MC1.16.5
+	- xaerobetterpvp 22.17.0
+[08:43:21] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/L/AppData/Roaming/.mc/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+Log Path: C:\Users\L\AppData\Roaming\.mc\.\CustomSkinLoader\FabricPlugin.log
+[main INFO] "version.json": jar:file:/C:/Users/L/AppData/Roaming/.mc/.fabric/remappedJars/minecraft-1.16.5-0.14.9/client-intermediary.jar!/version.json
+[main INFO] MinecraftVersion: {name='1.16.5', world_version='2586', protocol_version='754'}
+[08:43:22] [main/WARN]: Reference map 'mixins.nonmmlauncher.replaymod.refmap.json' for mixins.nonmmlauncher.replaymod.json could not be read. If this is a development environment you can ignore this message
+[main INFO] target: net.minecraft.class_355, mixin: customskinloader.mixin.MixinGuiPlayerTabOverlay, result: true
+[main INFO] target: net.minecraft.class_3298, mixin: customskinloader.mixin.MixinIResource, result: true
+[main INFO] target: net.minecraft.class_3300, mixin: customskinloader.mixin.MixinIResourceManager, result: true
+[main INFO] target: net.minecraft.class_972, mixin: customskinloader.mixin.MixinLayerCape, result: true
+[main INFO] target: net.minecraft.class_310, mixin: customskinloader.mixin.MixinMinecraft, result: true
+[main INFO] target: net.minecraft.class_1007, mixin: customskinloader.mixin.MixinRenderPlayer, result: true
+[main INFO] target: net.minecraft.class_1071, mixin: customskinloader.mixin.MixinSkinManager, result: true
+[main INFO] target: net.minecraft.class_1060, mixin: customskinloader.mixin.MixinTextureManager, result: true
+[main INFO] target: net.minecraft.class_1046, mixin: customskinloader.mixin.MixinThreadDownloadImageDataV2, result: true
+[main INFO] target: net.minecraft.class_1046, mixin: customskinloader.mixin.MixinThreadDownloadImageDataV3, result: false
+[08:43:23] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/occlusion/BlockOcclusionCache (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/occlusion/BlockOcclusionCache)
+Found existing patched optifine jar, using that
+Replay Mod is still using the traditional Early Riser initialisation
+[08:43:24] [main/WARN]: Error loading class: shadersmod/client/ShadersRender (java.lang.ClassNotFoundException: shadersmod/client/ShadersRender)
+[08:43:24] [main/WARN]: Error loading class: net/coderbot/iris/uniforms/CommonUniforms (java.lang.ClassNotFoundException: net/coderbot/iris/uniforms/CommonUniforms)
+[08:43:24] [main/WARN]: Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: net/coderbot/iris/Iris)
+[08:43:24] [main/WARN]: Error loading class: shadersmod/client/ShadersRender (java.lang.ClassNotFoundException: shadersmod/client/ShadersRender)
+[08:43:24] [main/WARN]: Error loading class: shadersmod/client/ShadersRender (java.lang.ClassNotFoundException: shadersmod/client/ShadersRender)
